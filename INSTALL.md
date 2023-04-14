@@ -4,7 +4,7 @@ The DensePose-RCNN system is implemented within the [`detectron`](https://github
 
 **Requirements:**
 
-- NVIDIA GPU, Linux, Python2
+- NVIDIA GPU, Linux, Python3.6
 - Caffe2, various standard Python packages, and the COCO API; Instructions for installing these dependencies are found below
 
 **Notes:**
